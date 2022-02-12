@@ -1,6 +1,6 @@
 import React from 'react';
-import kids from '../assets/kids.png';
-import Divider from './Divider';
+import kids from '../../assets/kids.png';
+import Divider from '../Divider';
 
 const Box_d = () => {
   return (

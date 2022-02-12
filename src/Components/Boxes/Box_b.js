@@ -1,8 +1,8 @@
 import React from 'react';
-import Divider from './Divider';
-import phone from '../assets/phone.jpg';
-import small from '../assets/stranger.png';
-import gif from '../assets/gif.gif';
+import Divider from '../Divider';
+import phone from '../../assets/phone.jpg';
+import small from '../../assets/stranger.png';
+import gif from '../../assets/gif.gif';
 
 const Box_b = () => {
   return (

@@ -1,6 +1,6 @@
 import React from 'react';
-import video from '../assets/tv_video.m4v';
-import Divider from './Divider';
+import video from '../../assets/tv_video.m4v';
+import Divider from '..//Divider';
 
 const Box_a = () => {
   return (

@@ -1,11 +1,11 @@
 import './App.css';
 import Hero from './Components/Hero';
 import Header from './Components/Header';
-import Box_a from './Components/Box_a';
-import Box_d from './Components/Box_d';
+import Box_a from './Components/Boxes/Box_a';
+import Box_d from './Components/Boxes/Box_b';
 import Questions from './Components/Questions';
-import Box_b from './Components/Box_b';
-import Box_c from './Components/Box_c';
+import Box_b from './Components/Boxes/Box_c';
+import Box_c from './Components/Boxes/Box_d';
 import Footer from './Components/Footer/Footer';
 
 function App() {
@@ -16,9 +16,10 @@ function App() {
         <Hero />
       </main>
       <Box_a />
+      <Box_d />
       <Box_b />
       <Box_c />
-      <Box_d />
+
       <Questions />
       <Footer />
     </>
